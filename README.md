@@ -1,7 +1,6 @@
 # Protein Analysis Tools
 
-Este repositório contém scripts em Python para análise físico-química de sequências de proteínas, com cálculo de propriedades básicas (massa molecular, ponto isoelétrico, índice de instabilidade, coeficiente de extinção) e predição de antigenicidade (VaxiJen).  
-Os resultados incluem tabelas e gráficos gerados automaticamente, baseados em construções proteicas utilizadas no meu mestrado em Biotecnologia.
+Este repositório contém scripts em Python para análise físico-química de sequências de proteínas, com cálculo de propriedades básicas (massa molecular, ponto isoelétrico, índice de instabilidade, coeficiente de extinção) e predição de antigenicidade (VaxiJen).  Os resultados incluem tabelas e gráficos gerados automaticamente, baseados em construções proteicas utilizadas no meu mestrado.
 
 ---
 
